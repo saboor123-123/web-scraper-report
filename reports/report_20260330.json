@@ -1,0 +1,235 @@
+{
+  "generated_at": "2026-03-30 00:08:57",
+  "period": "2026-03-23 to 2026-03-30",
+  "summary": {
+    "total_jobs_in_database": 104,
+    "new_this_week": 104,
+    "sources_tracked": 4
+  },
+  "top_titles": [
+    {
+      "title": "Data Engineer",
+      "count": 9,
+      "avg_salary": 105944.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 9,
+      "avg_salary": 87667.0
+    },
+    {
+      "title": "Cloud Engineer",
+      "count": 8,
+      "avg_salary": 92438.0
+    },
+    {
+      "title": "IT Support Specialist",
+      "count": 8,
+      "avg_salary": 106750.0
+    },
+    {
+      "title": "Junior Developer",
+      "count": 7,
+      "avg_salary": 104857.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 6,
+      "avg_salary": 92750.0
+    },
+    {
+      "title": "Full Stack Developer",
+      "count": 6,
+      "avg_salary": 100000.0
+    },
+    {
+      "title": "Senior Data Analyst",
+      "count": 6,
+      "avg_salary": 99000.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 5,
+      "avg_salary": 107200.0
+    },
+    {
+      "title": "Junior Data Analyst",
+      "count": 5,
+      "avg_salary": 97100.0
+    }
+  ],
+  "top_companies": [
+    {
+      "company": "Telstra",
+      "openings": 9
+    },
+    {
+      "company": "IBM Australia",
+      "openings": 9
+    },
+    {
+      "company": "TechStartup Co",
+      "openings": 8
+    },
+    {
+      "company": "CloudNine Solutions",
+      "openings": 8
+    },
+    {
+      "company": "ANZ Banking Group",
+      "openings": 7
+    },
+    {
+      "company": "REA Group",
+      "openings": 6
+    },
+    {
+      "company": "NAB",
+      "openings": 6
+    },
+    {
+      "company": "Carsales",
+      "openings": 6
+    },
+    {
+      "company": "Woolworths",
+      "openings": 5
+    },
+    {
+      "company": "SEEK",
+      "openings": 5
+    }
+  ],
+  "top_skills": [
+    {
+      "skill": "Python",
+      "demand": 44
+    },
+    {
+      "skill": "Git",
+      "demand": 31
+    },
+    {
+      "skill": "Java",
+      "demand": 31
+    },
+    {
+      "skill": "Docker",
+      "demand": 29
+    },
+    {
+      "skill": "React",
+      "demand": 28
+    },
+    {
+      "skill": "Node.js",
+      "demand": 25
+    },
+    {
+      "skill": "C#",
+      "demand": 23
+    },
+    {
+      "skill": "JavaScript",
+      "demand": 22
+    },
+    {
+      "skill": "Statistics",
+      "demand": 20
+    },
+    {
+      "skill": "Excel",
+      "demand": 19
+    },
+    {
+      "skill": "Power BI",
+      "demand": 18
+    },
+    {
+      "skill": "R",
+      "demand": 15
+    },
+    {
+      "skill": "Pandas",
+      "demand": 15
+    },
+    {
+      "skill": "Tableau",
+      "demand": 13
+    },
+    {
+      "skill": "SQL",
+      "demand": 12
+    }
+  ],
+  "salary_ranges": [
+    {
+      "title": "System Administrator",
+      "avg_min": 94000.0,
+      "avg_max": 120667.0
+    },
+    {
+      "title": "Business Analyst",
+      "avg_min": 94800.0,
+      "avg_max": 119600.0
+    },
+    {
+      "title": "IT Support Specialist",
+      "avg_min": 94875.0,
+      "avg_max": 118625.0
+    },
+    {
+      "title": "Data Engineer",
+      "avg_min": 90667.0,
+      "avg_max": 121222.0
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "avg_min": 90500.0,
+      "avg_max": 119500.0
+    },
+    {
+      "title": "Junior Developer",
+      "avg_min": 92143.0,
+      "avg_max": 117571.0
+    },
+    {
+      "title": "Backend Developer",
+      "avg_min": 87000.0,
+      "avg_max": 121000.0
+    },
+    {
+      "title": "Product Analyst",
+      "avg_min": 88667.0,
+      "avg_max": 117000.0
+    },
+    {
+      "title": "Data Analyst",
+      "avg_min": 88500.0,
+      "avg_max": 116500.0
+    },
+    {
+      "title": "Full Stack Developer",
+      "avg_min": 86833.0,
+      "avg_max": 113167.0
+    }
+  ],
+  "by_source": [
+    {
+      "source": "LinkedIn",
+      "count": 33
+    },
+    {
+      "source": "Indeed.com.au",
+      "count": 31
+    },
+    {
+      "source": "GlassDoor",
+      "count": 23
+    },
+    {
+      "source": "Seek.com.au",
+      "count": 17
+    }
+  ]
+}
